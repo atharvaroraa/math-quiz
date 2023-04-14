@@ -1,0 +1,36 @@
+body
+{
+    background: aqua;
+}
+
+.div1, .div2
+{
+background: whitesmoke;
+padding: 20px;
+float: none;
+border-radius: 30px;
+width: 500px ;
+}
+
+#player1_name , #player2_name
+{
+display: inline-block;
+margin-left: 3px;
+}
+#word
+{
+    width: 80%;
+}
+#word_display
+{
+    letter-spacing: 5px;
+}
+#output
+{
+    background: whitesmoke;
+    border-radius: 30px;
+    border-top: 20px solid;
+    padding: 20px;
+    float: none;
+    text-align: center;
+}
